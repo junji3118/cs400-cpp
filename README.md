@@ -15,3 +15,5 @@
 ### Week1: Linear structures 
 
 ### Week2: Binary search trees (BST) 
+
+### Week3: Advanced Tree Structures
