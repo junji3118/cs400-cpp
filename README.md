@@ -17,3 +17,5 @@
 ### Week2: Binary search trees (BST) 
 
 ### Week3: Advanced Tree Structures
+
+### Week4: Heap Structures
